@@ -1,0 +1,1 @@
+The code was developed by meticulously following the NLP documentation available at Real Python's NLTK NLP Guide (https://realpython.com/nltk-nlp-python/). This project was undertaken as part of a learning and educational exercise, aimed at deepening my understanding of natural language processing (NLP) and enhancing my coding skills
